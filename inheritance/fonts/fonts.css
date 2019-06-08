@@ -1,0 +1,20 @@
+*{
+    background-color: lightcyan;
+}
+#para1{
+    font-size: 30px;
+}
+
+#para2{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+#para3{
+    font-size: 47px;
+    font-style: oblique;
+    font-weight: bolder;
+}
+#para4{
+    word-spacing: 10px;
+    letter-spacing: 3px;
+}
